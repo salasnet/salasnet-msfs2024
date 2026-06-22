@@ -1,17 +1,17 @@
-# MSFS SDK Build Artifacts & Compiled Packages
-Packages/
-Build/
-_PackageInt/
+# MSFS SDK Build Artifacts & Compiled Packages (Everywhere)
+**/Packages/
+**/Build/
+**/_PackageInt/
 
 # Generated Layout and Manifest Files
-manifest.json
-layout.json
+**/manifest.json
+**/layout.json
 
-# Thumbnail and Cache Directories
-*.bgl.json
-*.cache
-.vs/
-.DS_Store
+# Thumbnail, Media, and Cache Directories
+**/*.bgl.json
+**/*.cache
+**/.vs/
+**/.DS_Store
 
 # User-specific simulator settings / locks
-*.lock
+**/*.lock
