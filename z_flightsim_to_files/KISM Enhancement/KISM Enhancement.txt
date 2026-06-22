@@ -1,0 +1,37 @@
+KISM Kissimmee Gateway Airport Enhancement
+28.290605, -81.437642
+
+Kissimmee Gateway Airport (KISM), formerly known as Kissimmee Municipal Airport, is a public airport in Kissimmee, Florida, United States. The airport is located 16 nautical miles (30 km) southwest of Orlando, and is a preferred destination for individuals wanting to visit the area attractions. It is owned and operated by the City of Kissimmee.
+
+Kissimmee Gateway Airport contains two asphalt paved runways. It hosts a variety of general aviation aircraft operations, including a major facility for the restoration of classic military aircraft from the World War II era to flying condition. The airport has an operational control tower and a Category I instrument landing system (ILS) on its main runway. It is considered a general aviation reliever airport to Orlando International Airport.
+
+
+DISCLAIMER:
+
+This Scenery is created with standard Microsoft/Asobo objects only, so no custom buildings. I tried to match buildings as best as I could with what is available, but, this is NOT a prototypical remake of the airport.
+
+Anybody who has been to the real thing will quickly be able to point out the differences between what is really there and what I have added and fixed. They would also be able to tell you that my version looks and feels closer to the original than the default auto-generated version.
+
+If you want a complete KISM remake that is identical to the original, this is not the mod for you. If you want KISM to at least look and feel more like the actual airport while allowing that it is far from perfect... this is your scenery!
+
+
+FEATURES:
+
+- Terraformed and flattened areas around the airport to remove terrain glitches.
+- Extensive removal of photogrammetry vegetation to give all of the sight lines at the airport an authentic feel.
+- Trees and vegetation around the airport have been cleaned up.
+- Replaced some default autogen buildings and hangars with more accurate ones.
+- Recreated the FBO terminal to the best of my ability using default objects. Some creative solutions were found to make it match pretty well.
+- Windsock placement has been fixed and innacurate windsocks removed.
+- Tower beacon has been correctly placed.
+- Added static elements, fuel tanks, fencing, vehicles and other bits to make the airport feel like a real place and to more closely match what it looks like in real life.
+- The airport has been lit for night time.
+
+
+Special thanks to Desparoto, who created a great version of KISM for 2020 which I studied to create my enhancement and who generously gave me permission to build upon his work. I used his light placements and fencing around the FBO in my 2024 version. Check out his 2020 version here: https://flightsim.to/file/52756/kissimmee-gateway-default-airport-improvements
+
+
+Installation:
+Unzip the Package.
+Move the salasnet-kism-enhancements folder to your Community folder.
+

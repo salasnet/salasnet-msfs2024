@@ -1,0 +1,32 @@
+<?xml version="1.0" encoding="utf-8"?>
+<AssetPackage Version="1.4.0">
+	<ItemSettings>
+		<ContentType>SCENERY</ContentType>
+		<Title>2IS Enhancements</Title>
+		<Manufacturer/>
+		<Creator>salasnet</Creator>
+	</ItemSettings>
+	<Flags>
+		<VisibleInStore>false</VisibleInStore>
+		<CanBeReferenced>false</CanBeReferenced>
+	</Flags>
+	<AssetGroups>
+		<AssetGroup Name="ContentInfo">
+			<Type Version="0">ContentInfo</Type>
+			<Flags>
+				<FSXCompatibility>false</FSXCompatibility>
+			</Flags>
+			<AssetDir>PackageDefinitions\salasnet-2is-enhancements\ContentInfo\</AssetDir>
+			<OutputDir>ContentInfo\salasnet-2is-enhancements\</OutputDir>
+		</AssetGroup>
+		<AssetGroup Name="enhancements">
+			<Type Version="0">BGL</Type>
+			<Flags>
+				<FSXCompatibility>false</FSXCompatibility>
+			</Flags>
+			<AssetDir>PackageSources\Scenery\2is-enhancements\enhancements\</AssetDir>
+			<OutputDir>Scenery\2is-enhancements\enhancements\</OutputDir>
+		</AssetGroup>
+	</AssetGroups>
+</AssetPackage>
+

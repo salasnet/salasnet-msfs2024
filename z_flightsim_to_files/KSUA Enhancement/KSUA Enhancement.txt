@@ -1,0 +1,39 @@
+KSUA Witham Field Enhancements (2024)
+
+This scenery is an update of my FS2020 scenery for KSUA: https://flightsim.to/file/50500/ksua-witham-field-enhancements-water-fixes
+
+Witham Field is located in the city of Stuart in Martin County, Florida, slightly over 100 miles north of Miami. It is my home airport and the default auto-generated version while having most buildings in the right locations, was pretty awful with most of the buildings being the wrong type.
+
+The most distinctive missing feature is the curved ceiling hangars which are depicted as being flat. This ultimately bothered me so much that I figured out how to use the SDK to replace the default with something that is more accurate.
+
+
+DISCLAIMER:
+
+This Scenery is created with standard Microsoft/Asobo objects only, so no custom buildings. I tried to match the buildings as best as I could with what is available, but, this is NOT a prototypical remake of the airport.
+
+Anybody who has been to the real thing will quickly be able to point out the differences between what is really there and what I have added and fixed. They would also be able to tell you that my version looks and feels closer to the original than the default auto-generated version.
+
+If you want a complete KSUA remake that is identical to the original, this is not the mod for you. If you want KSUA to at least look and feel more like the actual airport while allowing that it is far from perfect... welcome!
+
+ 
+
+WATER FIXES:
+
+I have another add-on which adds exclusion polygons from Key West to Cape Canaveral to fix the bridges and roads that are covered with water. If you install this airport, you should install the waterfixes, otherwise, all of the bridges in this area will be covered with water. This is a real problem in South Florida in MSFS. The name of the addon is Florida Waterfixes. It is available here: https://flightsim.to/file/85453/fl-waterfixes-key-west-to-miami-to-cape-canaveral
+
+
+FEATURES:
+
+- Replaced some default autogen buildings at KSUA with better, more accurate hangars.
+- Added static elements to bring the airport to life.
+- Fixed the windsock positions.
+- Added helipads.
+- Added secondary tower in the main airport area.
+- Added nightlighting.
+- Added lights to the six main bridges in the Stuart area.
+
+ 
+
+Installation:
+Unzip the Package.
+Move the salasnet-ksua-enhancements folder to your Community folder.

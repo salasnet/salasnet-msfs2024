@@ -1,0 +1,32 @@
+<?xml version="1.0" encoding="utf-8"?>
+<AssetPackage Version="0.1.0">
+	<ItemSettings>
+		<ContentType>SCENERY</ContentType>
+		<Title>E9CK Chokoloskee Seaplane</Title>
+		<Manufacturer/>
+		<Creator>salasnet</Creator>
+	</ItemSettings>
+	<Flags>
+		<VisibleInStore>false</VisibleInStore>
+		<CanBeReferenced>false</CanBeReferenced>
+	</Flags>
+	<AssetGroups>
+		<AssetGroup Name="ContentInfo">
+			<Type Version="0">ContentInfo</Type>
+			<Flags>
+				<FSXCompatibility>false</FSXCompatibility>
+			</Flags>
+			<AssetDir>PackageDefinitions\salasnet-airport-e9ck-chokoloskee-seaplane\ContentInfo</AssetDir>
+			<OutputDir>ContentInfo\salasnet-airport-e9ck-chokoloskee-seaplane</OutputDir>
+		</AssetGroup>
+		<AssetGroup Name="scenery">
+			<Type Version="0">Airport</Type>
+			<Flags>
+				<FSXCompatibility>false</FSXCompatibility>
+			</Flags>
+			<AssetDir>PackageSources\Scenery\airport-e9ck-chokoloskee-seaplane\scenery\</AssetDir>
+			<OutputDir>Scenery\airport-e9ck-chokoloskee-seaplane\scenery\</OutputDir>
+		</AssetGroup>
+	</AssetGroups>
+</AssetPackage>
+

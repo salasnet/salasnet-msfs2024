@@ -1,0 +1,35 @@
+KFPR Treasure Coast International Airport Enhancement
+27.494062, -80.365409
+
+
+Treasure Coast International Airport (KFPR), formerly known as St. Lucie County International Airport, is a general aviation airport that encompasses 3,844 acres and is host to dozens of tenants including aeronautic businesses such as aircraft maintenance, storage, and manufacturing as well as a flight training school, air taxi and charter services, medical transport, and a missionary flights operation.
+
+Users will experience a well-equipped airport offering a full-service fixed-base operator with fuel services, oxygen and a restaurant. The airport also houses a U.S. Customs and Border Protection office and Aircraft Rescue & Fire Fighting Services (ARFF).
+
+
+DISCLAIMER:
+
+This Scenery is created with standard Microsoft/Asobo objects only, so no custom buildings. I tried to match the buildings as best as I could with what is available, but, this is NOT a prototypical remake of the airport.
+
+Anybody who has been to the real thing will quickly be able to point out the differences between what is really there and what I have added and fixed. They would also be able to tell you that my version looks and feels closer to the original than the default auto-generated version.
+
+If you want a complete KFPR remake that is identical to the original, this is not the mod for you. If you want KFPR to at least look and feel more like the actual airport while allowing that it is far from perfect... this is your scenery!
+
+
+WATER FIXES:
+I have another add-on which adds exclusion polygons from Key West to Cape Canaveral to fix the bridges and roads that are covered with water. This is a real problem in  Florida in MSFS. The name of the addon is Florida Waterfixes. It is available here: https://flightsim.to/file/85453/fl-waterfixes-key-west-to-miami-to-cape-canaveral
+
+
+
+FEATURES:
+
+- Replaced many default autogen buildings and hangars with more accurate ones.
+- Windsock placement has been fixed and innacurate windsocks removed.
+- The new large hangar that was completely missing has been added.
+- The Rescue and Fire Fighting building has been added and matched as well as possible using default objects.
+- The new hangars by the tower have been added. 
+- Added many static elements and bits to bring the airport to life.
+- A few ground polygons have been added to clean up the airport satellite imagery.
+- Added lights for a more immersive nightime experience.
+
+

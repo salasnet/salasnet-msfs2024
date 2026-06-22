@@ -1,0 +1,39 @@
+X26 Sebastian Municipal Airport Enhancement
+27.814018, -80.494477
+
+Sebastian Municipal Airport Enhancement
+
+Sebastian Municipal Airport (X26) is located on the northwest side of the City of Sebastian, on the east coast of Florida, between Vero Beach and Melbourne. It is about 160 miles north of Miami and 100 miles Southeast of Orlando. It is a General Aviation (GA) facility, serving primarily small personal and corporate aircraft.
+
+
+DISCLAIMER:
+
+This Scenery is created with standard Microsoft/Asobo objects only, so no custom buildings. I tried to match buildings as best as I could with what is available, but, this is NOT a prototypical remake of the airport.
+
+Anybody who has been to the real thing will quickly be able to point out the differences between what is really there and what I have added and fixed. They would also be able to tell you that my version looks and feels closer to the original than the default auto-generated version.
+
+If you want a complete X26 remake that is identical to the original, this is not the mod for you. If you want X26 to at least look and feel more like the actual airport while allowing that it is far from perfect... this is your scenery!
+ 
+
+WATER FIXES:
+
+I have another add-on which adds exclusion polygons from Key West to Cape Canaveral to fix the bridges and roads that are covered with water. This is a real problem in South Florida in MSFS. The name of the addon is Florida Waterfixes. It is available here: https://flightsim.to/file/85453/fl-waterfixes-key-west-to-miami-to-cape-canaveral
+
+ 
+
+FEATURES:
+
+- Replaced some default autogen buildings and hangars with more accurate ones.
+- Windsock placements have been fixed and innacurate windsocks removed.
+- Trees and vegetation around the airport have been cleaned up and made accurate to reality.
+- Some new hangars that were not in the scenery have been added.
+- Errant tower beacon has been removed and correctly placed.
+- Added static elements, fuel tanks, fencing, vehicles and other bits to make the airport feel like a real place and to more closely match what it looks like in real life.
+- The airport has been lit for night time with correct light poles added in the surrounding area. Light placements are based on satellite imagery and Google Maps street view.
+
+ 
+
+Installation:
+Unzip the Package.
+Move the salasnet-x26-enhancements folder to your Community folder.
+

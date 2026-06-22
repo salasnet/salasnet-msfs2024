@@ -1,0 +1,32 @@
+<?xml version="1.0" encoding="utf-8"?>
+<AssetPackage Version="3.0.0">
+	<ItemSettings>
+		<ContentType>SCENERY</ContentType>
+		<Title>fl-waterfixes</Title>
+		<Manufacturer/>
+		<Creator>salasnet</Creator>
+	</ItemSettings>
+	<Flags>
+		<VisibleInStore>false</VisibleInStore>
+		<CanBeReferenced>false</CanBeReferenced>
+	</Flags>
+	<AssetGroups>
+		<AssetGroup Name="ContentInfo">
+			<Type Version="0">ContentInfo</Type>
+			<Flags>
+				<FSXCompatibility>false</FSXCompatibility>
+			</Flags>
+			<AssetDir>PackageDefinitions\salasnet-fl-waterfixes\ContentInfo\</AssetDir>
+			<OutputDir>ContentInfo\salasnet-fl-waterfixes\</OutputDir>
+		</AssetGroup>
+		<AssetGroup Name="fixes">
+			<Type Version="0">BGL</Type>
+			<Flags>
+				<FSXCompatibility>false</FSXCompatibility>
+			</Flags>
+			<AssetDir>PackageSources\Scenery\fl-waterfixes\fixes\</AssetDir>
+			<OutputDir>Scenery\fl-waterfixes\fixes\</OutputDir>
+		</AssetGroup>
+	</AssetGroups>
+</AssetPackage>
+

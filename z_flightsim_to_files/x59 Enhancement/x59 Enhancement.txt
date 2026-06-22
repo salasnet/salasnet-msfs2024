@@ -1,0 +1,36 @@
+X59 Valkaria Airport Enhancement
+27.962198, -80.559072
+
+Valkaria Airport (X59) is a public-use airport located about half way between Sebastian towards the south and Melbourne towards the north on the east coast of Florida. The airport was originally constructed by the U.S. Navy during World War II as Naval Outlying Landing Field Valkaria, an auxiliary airfield to Naval Air Station Melbourne, now Melbourne International Airport. During the 1950s, 1960s and 1970s, the site was used as a Missile Trajectory Measurement (MISTRAM) station by the U.S. Air Force and NASA in support of launch operations at Cape Canaveral Air Force Station and Kennedy Space Center. The Valkaria Airport also has the Space Coast Drone Test Center.
+
+ 
+
+DISCLAIMER:
+
+This Scenery is created with standard Microsoft/Asobo objects only, so no custom buildings. I tried to match buildings as best as I could with what is available, but, this is NOT a prototypical remake of the airport.
+
+Anybody who has been to the real thing will quickly be able to point out the differences between what is really there and what I have added and fixed. They would also be able to tell you that my version looks and feels closer to the original than the default auto-generated version.
+
+If you want a complete X59 remake that is identical to the original, this is not the mod for you. If you want X59 to at least look and feel more like the actual airport while allowing that it is far from perfect... this is your scenery!
+ 
+
+WATER FIXES:
+
+I have another add-on which adds exclusion polygons from Key West to Cape Canaveral to fix the bridges and roads that are covered with water. This is a real problem in  Florida in MSFS. The name of the addon is Florida Waterfixes. It is available here: https://flightsim.to/file/85453/fl-waterfixes-key-west-to-miami-to-cape-canaveral
+
+FEATURES:
+
+- Trees and vegetation around the airport have been cleaned up and made accurate to reality.
+- Replaced some default autogen buildings and hangars with more accurate ones.
+- Windsock placement has been fixed and innacurate windsocks removed.
+- Tower beacon has been correctly placed.
+- Added static elements, fuel tanks, fencing, vehicles and other bits to make the airport feel like a real place and to more closely match what it looks like in real life.
+- The airport has been lit for night time with correct light poles added.
+ 
+
+Installation:
+Unzip the Package.
+Move the salasnet-x59-enhancements folder to your Community folder.
+
+
+

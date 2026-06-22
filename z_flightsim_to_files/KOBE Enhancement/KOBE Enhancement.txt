@@ -1,0 +1,35 @@
+KOBE Okeechobee County Airport Enhancement
+27.266565, -80.850938
+
+Okeechobee County Airport (KOBE) is a general aviation airport located north of Lake Okeechobee, in south central Florida.
+
+
+DISCLAIMER:
+
+This Scenery is created with standard Microsoft/Asobo objects only, so no custom buildings. I tried to match buildings as best as I could with what is available, but, this is NOT a prototypical remake of the airport.
+
+Anybody who has been to the real thing will quickly be able to point out the differences between what is really there and what I have added and fixed. They would also be able to tell you that my version looks and feels closer to the original than the default auto-generated version.
+
+If you want a complete KOBE remake that is identical to the original, this is not the mod for you. If you want KOBE to at least look and feel more like the actual airport while allowing that it is far from perfect... this is your scenery!
+ 
+
+WATER FIXES:
+
+I have another add-on which adds exclusion polygons from Key West to Cape Canaveral to fix the bridges and roads that are covered with water. This is a real problem in  Florida in MSFS. The name of the addon is Florida Waterfixes. It is available here: https://flightsim.to/file/85453/fl-waterfixes-key-west-to-miami-to-cape-canaveral
+
+FEATURES:
+
+- Terraformed and flattened areas around the airport to remove terrain glitches.
+- Trees and vegetation around the airport have been cleaned up and made accurate to reality.
+- Replaced some default autogen buildings and hangars with more accurate ones.
+- Windsock placement has been fixed and innacurate windsocks removed.
+- Tower beacon has been correctly placed.
+- Added static elements, fuel tanks, fencing, vehicles and other bits to make the airport feel like a real place and to more closely match what it looks like in real life.
+- The airport has been lit for night time with correct light poles added.
+ 
+
+Installation:
+Unzip the Package.
+Move the salasnet-kobe-enhancements folder to your Community folder.
+
+

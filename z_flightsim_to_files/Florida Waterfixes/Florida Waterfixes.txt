@@ -1,0 +1,8 @@
+As part of my other addon, KSUA Enhancements, I added exclusion polygons to fix all of the bridges and roads that are incorrectly covered by water. This is a real problem in Florida in MSFS. I started with fixing the bridges in Stuart for KSUA ... and then... next thing I know , I'm fixing all of south Florida, east and west coasts.
+
+As of version 3.0, fixes from Tampa down to the Everglades have been added. The entirety of east and west Florida, south of Orlando has fixes added. Check out the new screenshot for the coverage.
+
+Installation:
+Unzip the Package.
+Move the salasnet-fl-waterfixes folder to your Community folder.
+

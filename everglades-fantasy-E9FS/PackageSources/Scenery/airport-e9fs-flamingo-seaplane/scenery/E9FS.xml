@@ -1,0 +1,16 @@
+<?xml version="1.0"?>
+<FSData version="9.0">
+	<Airport displayName="Flamingo Seaplane" groupID="1" groupGenerated="FALSE" country="USA" state="Florida" city="Flamingo" name="Flamingo Seaplane" ident="E9FS" lat="25.13809081903021" lon="-80.92310925312735" alt="-0.00000846572220" magvar="0.000000" trafficScalar="1.000000" airportTestRadius="1000.00000000000000" applyFlatten="FALSE" isOnTIN="FALSE" tinColorCorrection="TRUE" starAirport="TRUE">
+		<AirportArchetype/>
+		<Runway parentGroupID="1" lat="25.13529388100085" lon="-80.92440916282230" alt="0.08839933853596" heading="54.99998474121094" length="1000.00000000000000" width="50.00000000000000" patternAltitude="304.79998779296875" surface="{067A3DE8-8ABD-49C5-B908-393670EF823A}" transparent="TRUE" number="05" designator="NONE" primaryLanding="TRUE" primaryTakeoff="TRUE" primaryPattern="LEFT" secondaryLanding="TRUE" secondaryTakeoff="TRUE" secondaryPattern="LEFT" primaryMarkingBias="0.00000000000000" secondaryMarkingBias="0.00000000000000" groundMerging="TRUE" excludeVegetationAround="TRUE">
+			<Markings edges="FALSE" threshold="FALSE" alternateThreshold="FALSE" fixedDistance="FALSE" alternateFixedDistance="FALSE" touchdown="FALSE" alternateTouchdown="FALSE" dashes="FALSE" ident="FALSE" leadingZeroIdent="FALSE" precision="FALSE" alternatePrecision="FALSE" edgePavement="FALSE" singleEnd="FALSE" primaryClosed="FALSE" secondaryClosed="FALSE" primaryStol="FALSE" secondaryStol="FALSE" noThresholdEndArrows="FALSE"/>
+			<Lights center="NONE" edge="NONE"/>
+			<RunwayStart end="PRIMARY" lat="25.13287249370441" lon="-80.92821165649300" alt="0.18553544674069" heading="54.99998474121094"/>
+			<RunwayStart end="SECONDARY" lat="25.13779045636183" lon="-80.92047324601549" alt="0.11458454001695" heading="-125.00001525878906"/>
+		</Runway>
+		<Aprons/>
+		<PaintedElements/>
+		<ApronEdgeLights/>
+	</Airport>
+</FSData>
+

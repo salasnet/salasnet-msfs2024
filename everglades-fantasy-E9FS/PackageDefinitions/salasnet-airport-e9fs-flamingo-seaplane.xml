@@ -1,0 +1,32 @@
+<?xml version="1.0" encoding="utf-8"?>
+<AssetPackage Version="1.0.0">
+	<ItemSettings>
+		<ContentType>SCENERY</ContentType>
+		<Title>E9FS Flamingo Seaplane</Title>
+		<Manufacturer/>
+		<Creator>salasnet</Creator>
+	</ItemSettings>
+	<Flags>
+		<VisibleInStore>false</VisibleInStore>
+		<CanBeReferenced>false</CanBeReferenced>
+	</Flags>
+	<AssetGroups>
+		<AssetGroup Name="ContentInfo">
+			<Type Version="0">ContentInfo</Type>
+			<Flags>
+				<FSXCompatibility>false</FSXCompatibility>
+			</Flags>
+			<AssetDir>PackageDefinitions\salasnet-airport-e9fs-flamingo-seaplane\ContentInfo</AssetDir>
+			<OutputDir>ContentInfo\salasnet-airport-e9fs-flamingo-seaplane</OutputDir>
+		</AssetGroup>
+		<AssetGroup Name="scenery">
+			<Type Version="0">Airport</Type>
+			<Flags>
+				<FSXCompatibility>false</FSXCompatibility>
+			</Flags>
+			<AssetDir>PackageSources\Scenery\airport-e9fs-flamingo-seaplane\scenery\</AssetDir>
+			<OutputDir>Scenery\airport-e9fs-flamingo-seaplane\scenery\</OutputDir>
+		</AssetGroup>
+	</AssetGroups>
+</AssetPackage>
+

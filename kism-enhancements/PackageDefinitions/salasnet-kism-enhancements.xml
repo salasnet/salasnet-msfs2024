@@ -1,0 +1,32 @@
+<?xml version="1.0" encoding="utf-8"?>
+<AssetPackage Version="1.3.0">
+	<ItemSettings>
+		<ContentType>SCENERY</ContentType>
+		<Title>KISM Enhancements</Title>
+		<Manufacturer/>
+		<Creator>salasnet</Creator>
+	</ItemSettings>
+	<Flags>
+		<VisibleInStore>false</VisibleInStore>
+		<CanBeReferenced>false</CanBeReferenced>
+	</Flags>
+	<AssetGroups>
+		<AssetGroup Name="ContentInfo">
+			<Type Version="0">ContentInfo</Type>
+			<Flags>
+				<FSXCompatibility>false</FSXCompatibility>
+			</Flags>
+			<AssetDir>PackageDefinitions\salasnet-kism-enhancements\ContentInfo\</AssetDir>
+			<OutputDir>ContentInfo\salasnet-kism-enhancements\</OutputDir>
+		</AssetGroup>
+		<AssetGroup Name="placements">
+			<Type Version="0">BGL</Type>
+			<Flags>
+				<FSXCompatibility>false</FSXCompatibility>
+			</Flags>
+			<AssetDir>PackageSources\Scenery\kism-enhancements\placements\</AssetDir>
+			<OutputDir>Scenery\kism-enhancements\placements\</OutputDir>
+		</AssetGroup>
+	</AssetGroups>
+</AssetPackage>
+

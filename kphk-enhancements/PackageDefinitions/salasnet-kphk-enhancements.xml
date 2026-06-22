@@ -1,0 +1,32 @@
+<?xml version="1.0" encoding="utf-8"?>
+<AssetPackage Version="1.8.0">
+	<ItemSettings>
+		<ContentType>SCENERY</ContentType>
+		<Title>kphk-enhancements</Title>
+		<Manufacturer/>
+		<Creator>salasnet</Creator>
+	</ItemSettings>
+	<Flags>
+		<VisibleInStore>false</VisibleInStore>
+		<CanBeReferenced>false</CanBeReferenced>
+	</Flags>
+	<AssetGroups>
+		<AssetGroup Name="ContentInfo">
+			<Type Version="0">ContentInfo</Type>
+			<Flags>
+				<FSXCompatibility>false</FSXCompatibility>
+			</Flags>
+			<AssetDir>PackageDefinitions\salasnet-kphk-enhancements\ContentInfo\</AssetDir>
+			<OutputDir>ContentInfo\salasnet-kphk-enhancements\</OutputDir>
+		</AssetGroup>
+		<AssetGroup Name="placements">
+			<Type Version="0">BGL</Type>
+			<Flags>
+				<FSXCompatibility>false</FSXCompatibility>
+			</Flags>
+			<AssetDir>PackageSources\Scenery\kphk-enhancements\placements\</AssetDir>
+			<OutputDir>Scenery\kphk-enhancements\placements\</OutputDir>
+		</AssetGroup>
+	</AssetGroups>
+</AssetPackage>
+

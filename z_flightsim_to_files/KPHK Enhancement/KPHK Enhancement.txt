@@ -1,0 +1,47 @@
+KPHK Palm Beach County Glades Airport Enhancement
+
+KPHK, Palm Beach County Glades Airport (Pahokee) is a GA airport located in western Palm Beach County on the eastern edge of Lake Okeechobee.
+
+
+Glades Airport is Palm Beach County's designated recreational airport. The airport is located 3 miles southwest of Pahokee, Florida and 35 miles west of West Palm Beach, Florida. It is an uncontrolled airport.
+
+
+Runway 18/36 is 4,116' in length by 75' wide, so more than big enough for just about any GA plane you want to bring there.
+
+
+The airport has a VOR/DME and is popular for flight training for both fixed wing & helicopters. Runway 18/36 has RNAV Procedures for training GPS approaches. (see https://skyvector.com/airport/PHK/Palm-Beach-County-Glades-Airport) Glades Airport is also designated to support FAR 105 Parachute Operation.
+
+
+With its central location, it makes a great "home" airport for Career mode, and for your explorations to and from central Florida and the east and west coasts of Florida.
+
+
+This airport enhancement is not 100% accurate to the real-life status of the airport. However, given there was nothing there in the default sim, the following have been added:
+
+
+1. Hangar and airport buildings that are very close to the real ones.
+
+2. Windsock placement has been corrected.
+
+3. The VOR has been added.
+
+4. All trees that are not supposed to be there have been removed.
+
+5. The airport has been fully lit for night time.
+
+6. The incorrectly placed fuel section has been removed and relocated.
+
+7. Fencing and other "bits" were added to make the airport feel like a real place and to more closely match what it looks like in real life.
+
+
+Only default assets were used in upgrading the airport.
+
+
+KPHK is a great little airport to make short hops to both the west and east side of Florida, which is littered with great airport destinations and scenery.
+
+
+As an added bonus, since the airport is right next to the lake, you can take your amphibian airplane and drive it right out for water takeoffs, and can bring the plane home from the lake as well. The airport has a water canal lane in the lake right next to it that functions as a "natural" water runway, so to speak. The airport has a "grass strip" that is not used in real life, but one of the ends can serve as a perfect starting point to drive into the water. I have cleared this area of rocks and placed two flag markers to create a "lane" for entering and exiting the lake.
+
+ 
+
+WATER FIXES:
+I have another add-on which adds exclusion polygons from Key West to Cape Canaveral to fix the bridges and roads that are covered with water. This is a real problem in  Florida in MSFS. The name of the addon is Florida Waterfixes. It is available here: https://flightsim.to/file/85453/fl-waterfixes-key-west-to-miami-to-cape-canaveral

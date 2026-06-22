@@ -1,0 +1,31 @@
+2IS Airglades Airport Enhancement
+26.735966, -81.048308
+
+2IS, Airglades Airport, is a county-owned public-use airport in Hendry County, Florida, United States. It is located 5 miles (8.0 km) west of the central business district of Clewiston, Florida.
+
+The airport has a lighted 5950-foot runway (13-31) and ample aircraft tie-down space, Avfuel aviation and jet fuel, and repair facilities for visiting aircraft and locally based aircraft owners.
+
+Airglades Airport, with its central location in Florida, makes a great "home" airport for your explorations of  central, east and west Florida. It is a popular destination for Skydiving. Both runways have RNAV procedures for practicing instrument approaches.
+
+DETAILS
+This airport enhancement is not 100% accurate to the real-life status of the airport. However, it is pretty close and captures the spirit and look of the airport quite well. The following has been enhanced:
+
+1. Hangar and airport buildings that are very close to the real ones have been added.
+2. Windsock placement has been corrected and a second windsock added.
+3. All trees that are not supposed to be there have been removed and surrounding areas have been reworked to more closely match reality.
+4. Errant tower beacon has been removed and correctly placed.
+5. The airport has been lit for night time with correct light poles added in the surrounding area.
+6. Fencing, vehicles street lights and poles, and other "bits" were added to make the airport feel like a real place and to more closely match what it looks like in real life.
+7. A static skydiving airplane has been added in the usual location it loads from at the airport.
+8. Fuel tanks station has been correctly placed, and a second station added.
+
+Only default assets were used in upgrading the airport.
+
+HISTORY
+In 1941, British Prime Minister Winston Churchill made an urgent appeal to the United States to provide war materials and pilot training for defense against a superior German air power. President Franklin Roosevelt responded by implementing the Lend Lease Act, which called for the construction of six British Flying Training Schools in California, Arizona, Oklahoma, Texas and the British Flying Training School (BFTS) #5 at Riddle Field near the town of Clewiston, Florida, which trained more than 1,700 cadets in the Royal Air Force.
+
+The airfield was opened on 12 November 1942 by the United States Army Air Forces. Assigned to USAAF Southeast Training Center (later Southeast Flying Training Command). It conducted contract basic flying training by Riddle-McKay Aero College (which was at the time one of six divisions of the Embry-Riddle School of Aviation), under the jurisdiction of the 75th Flying Training Detachment (Contract Pilot School).
+
+It was inactivated 31 December 1945 with the drawdown of AAFTC's pilot training program and was declared surplus in 1946. Responsibility for it was given to the War Assets Administration (WAA) and the facility was eventually acquired by Hendry County.
+
+The present-day Airglades Airport was built after the war over the runways of Riddle Field. The buildings of the wartime field have been replaced by modern buildings.

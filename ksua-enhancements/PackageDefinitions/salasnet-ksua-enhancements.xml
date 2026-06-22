@@ -1,0 +1,32 @@
+<?xml version="1.0" encoding="utf-8"?>
+<AssetPackage Version="2.4.0">
+	<ItemSettings>
+		<ContentType>SCENERY</ContentType>
+		<Title>ksua-enhancements</Title>
+		<Manufacturer/>
+		<Creator>salasnet</Creator>
+	</ItemSettings>
+	<Flags>
+		<VisibleInStore>false</VisibleInStore>
+		<CanBeReferenced>false</CanBeReferenced>
+	</Flags>
+	<AssetGroups>
+		<AssetGroup Name="ContentInfo">
+			<Type Version="0">ContentInfo</Type>
+			<Flags>
+				<FSXCompatibility>false</FSXCompatibility>
+			</Flags>
+			<AssetDir>PackageDefinitions\salasnet-ksua-enhancements\ContentInfo\</AssetDir>
+			<OutputDir>ContentInfo\salasnet-ksua-enhancements\</OutputDir>
+		</AssetGroup>
+		<AssetGroup Name="placements">
+			<Type Version="0">BGL</Type>
+			<Flags>
+				<FSXCompatibility>false</FSXCompatibility>
+			</Flags>
+			<AssetDir>PackageSources\Scenery\ksua-enhancements\ksua-placements\</AssetDir>
+			<OutputDir>Scenery\ksua-enhancements\ksua-placements\</OutputDir>
+		</AssetGroup>
+	</AssetGroups>
+</AssetPackage>
+

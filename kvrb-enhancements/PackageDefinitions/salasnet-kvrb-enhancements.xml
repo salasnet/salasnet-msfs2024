@@ -1,0 +1,32 @@
+<?xml version="1.0" encoding="utf-8"?>
+<AssetPackage Version="1.3.0">
+	<ItemSettings>
+		<ContentType>SCENERY</ContentType>
+		<Title>KVRB Enhancements</Title>
+		<Manufacturer/>
+		<Creator>salasnet</Creator>
+	</ItemSettings>
+	<Flags>
+		<VisibleInStore>false</VisibleInStore>
+		<CanBeReferenced>false</CanBeReferenced>
+	</Flags>
+	<AssetGroups>
+		<AssetGroup Name="ContentInfo">
+			<Type Version="0">ContentInfo</Type>
+			<Flags>
+				<FSXCompatibility>false</FSXCompatibility>
+			</Flags>
+			<AssetDir>PackageDefinitions\salasnet-kvrb-enhancements\ContentInfo\</AssetDir>
+			<OutputDir>ContentInfo\salasnet-kvrb-enhancements\</OutputDir>
+		</AssetGroup>
+		<AssetGroup Name="placements">
+			<Type Version="0">BGL</Type>
+			<Flags>
+				<FSXCompatibility>false</FSXCompatibility>
+			</Flags>
+			<AssetDir>PackageSources\Scenery\kvrb-enhancements\placements\</AssetDir>
+			<OutputDir>Scenery\kvrb-enhancements\placements\</OutputDir>
+		</AssetGroup>
+	</AssetGroups>
+</AssetPackage>
+

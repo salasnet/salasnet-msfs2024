@@ -1,0 +1,16 @@
+<?xml version="1.0"?>
+<FSData version="9.0">
+	<Airport displayName="Chokoloskee Seaplane" groupID="1" groupGenerated="FALSE" country="USA" state="Florida" city="Chokoloskee" name="Chokoloskee Seaplane" ident="E9CK" lat="25.81852261629621" lon="-81.36541539646691" alt="0.00088411848992" magvar="0.000000" trafficScalar="1.000000" airportTestRadius="1237.75420581123149" applyFlatten="FALSE" isOnTIN="FALSE" tinColorCorrection="TRUE" starAirport="TRUE">
+		<AirportArchetype/>
+		<Runway parentGroupID="1" lat="25.82576448510776" lon="-81.37356118980846" alt="0.08305574487895" heading="125.00000000000000" length="2000.00000000000000" width="50.00000000000000" patternAltitude="304.79998779296875" surface="{067A3DE8-8ABD-49C5-B908-393670EF823A}" transparent="TRUE" number="12" designator="NONE" primaryLanding="TRUE" primaryTakeoff="TRUE" primaryPattern="LEFT" secondaryLanding="TRUE" secondaryTakeoff="TRUE" secondaryPattern="LEFT" primaryMarkingBias="0.00000000000000" secondaryMarkingBias="0.00000000000000" groundMerging="TRUE" excludeVegetationAround="TRUE">
+			<Markings edges="FALSE" threshold="FALSE" alternateThreshold="FALSE" fixedDistance="FALSE" alternateFixedDistance="FALSE" touchdown="FALSE" alternateTouchdown="FALSE" dashes="FALSE" ident="FALSE" leadingZeroIdent="FALSE" precision="FALSE" alternatePrecision="FALSE" edgePavement="FALSE" singleEnd="FALSE" primaryClosed="FALSE" secondaryClosed="FALSE" primaryStol="FALSE" secondaryStol="FALSE" noThresholdEndArrows="FALSE"/>
+			<Lights center="NONE" edge="NONE"/>
+			<RunwayStart end="PRIMARY" lat="25.83085352877847" lon="-81.38156464340764" alt="0.16234816238284" heading="125.00000000000000"/>
+			<RunwayStart end="SECONDARY" lat="25.82069547565027" lon="-81.36553641987143" alt="0.15343327820301" heading="-55.00000000000000"/>
+		</Runway>
+		<Aprons/>
+		<PaintedElements/>
+		<ApronEdgeLights/>
+	</Airport>
+</FSData>
+

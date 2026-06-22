@@ -1,0 +1,41 @@
+KVRB Vero Beach Regional Airport Enhancement
+27.654407, -80.415263
+
+
+Vero Beach Regional Airport (KVRB) is a public airport located 1 mile (1.6 km) northwest of Vero Beach in Indian River County, Florida, United States. The airport is publicly owned and is the home of Piper Aircraft. Vero Beach is about 140 miles north of Miami.
+
+ 
+
+DISCLAIMER:
+
+This one was a tough one to do. Vero Beach, in addition to being a pretty large GA aiport, is also the home of Piper and has many custom hangers and buildings. I did my best with the default objects to get this closer to the real airport.
+
+This Scenery is created with standard Microsoft/Asobo objects only, so no custom buildings. I tried to match buildings as best as I could with what is available, but, this is NOT a prototypical remake of the airport.
+
+Anybody who has been to the real thing will quickly be able to point out the differences between what is really there and what I have added and fixed. They would also be able to tell you that my version looks and feels closer to the original than the default auto-generated version.
+
+If you want a complete KVRB remake that is identical to the original, this is not the mod for you. If you want KVRB to at least look and feel more like the actual airport while allowing that it is far from perfect... this is your scenery!
+ 
+
+WATER FIXES:
+
+I have another add-on which adds exclusion polygons from Key West to Cape Canaveral to fix the bridges and roads that are covered with water. This is a real problem in South Florida in MSFS. The name of the addon is Florida Waterfixes. It is available here: https://flightsim.to/file/85453/fl-waterfixes-key-west-to-miami-to-cape-canaveral
+
+ 
+
+FEATURES:
+
+- Replaced some default autogen buildings and hangars with more accurate ones.
+- Windsock placement has been fixed and innacurate windsocks removed.
+- Trees and vegetation around the airport have been cleaned up and made accurate to reality.
+- The Piper Factory and surrounding area at least now looks like a real place and matches whats actually there a lot better. The default was just one huge blank windowless building.
+- Some new hangars that were not in the scenery have been added.
+- The hangars by the tower have been added as well as completely reworking the hangars north of the tower.
+- Added static elements, fencing and other bits to bring the airport to life and more closely match what it looks like in real life.
+- The airport has been fully lit for night time, with accurate light placements based on satellite imagery and Google Maps street view.
+ 
+
+Installation:
+Unzip the Package.
+Move the salasnet-kvrb-enhancements folder to your Community folder.
+

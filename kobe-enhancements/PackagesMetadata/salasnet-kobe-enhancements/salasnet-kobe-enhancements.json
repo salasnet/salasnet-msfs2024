@@ -1,0 +1,10 @@
+{
+  "locations": [
+    {
+      "type": "airport",
+      "airportCode": "KOBE",
+      "latitude": 27.26687414533274,
+      "longitude": -80.85062981489934
+    }
+  ]
+}

@@ -1,0 +1,39 @@
+Everglades Fantasy seeks to add a little seaplane bush flying fun to the Everglades in the USA.
+
+ 
+
+THE STORY
+
+Everglades National Park is a National US park located in the southern tip of Florida. Seaplanes are not allowed to land in the Everglades (unless given extraordinary permission by the supervisor of the park.)
+
+However, in this fictional Everglades Fantasy, Everglades National Park has decided to install some nice rustic cabins in the park to generate additional revenue, near to its existing campsite locations and close to its Chickees (Chickees are elevated platforms in the Everglades National Park that provide camping above the water).  The park has named all of the Cabins and extra Seaplane docks after the existing campsites and Chickees.
+
+It has also contracted with your Seaplane company to provide all flights to and from these cabins. There are no seaplane bases or navaids at these cabins, just a seaplane dock, so a good map and some GPS coordinates will be the way for you to get to these. You will have to overfly to see what the best landing is  for any given cabin. Some landings are pretty easy, some will require a bit of bush flying acumen.
+
+There are 22 cabin sites and six beach campsite locations. A base of operations for your company has been set up at Flamingo Marina. A fictional seaplane base airport has been created there: E9FM - Flamingo Seaplane
+
+Of course, given that you are a full-service charter company, you also provide service to the cabins from nearby existing airports and seaplane bases. Primarily:
+X51 - Homestead General Aviation, east of the cabins and closest to Miami.
+X01 - Everglades Airpark, west of the cabins and closest to Naples on the west coast.
+42FL - Plantation Key Seaplane Base. This water only start is south and east of the cabins.
+
+An additional fictional seaplane base airport has been created next to X01: E9CK - Chokoloskee Seaplane.
+
+Of course, nothing is stopping you from providing services from further locations. KMTH Marathon, KTMB Miami Executive, KMKY Marco Island, KAPF Naples Muni. The occasional private charter has also been booked all the way from KEYW Key West.
+
+ 
+
+SCENERY DETAILS
+
+All of the Cabins and Campsite landing locations have been set up as POI, so they are visible in the planning map and in the world if you have POI set to be visible in the game.
+
+Selecting a POI as a start location, however, will place you in the air. The recommended way to start at any of the cabin locations is to select some water next to the POI and then select to start on the ground, either cold and dark or with the motor running and ready for takeoff.
+
+There is no way to moor to the seaplane docks, so the preferred method is to beach the boat next to the cabin or dock and use Shift-C to get out and walk to the cabin.
+
+ 
+
+INSTALLATION:
+Move the folders beginning with 'salasnet' to your Community folder. There are three folders, one for the cabins and two for the seaplane bases, so you can install just the cabins if you do not want the fictional seaplane bases.
+
+Also included is an EXTRAS folder, which has an original map of the Everglades, an overview map showing the cabin locations, and a CSV file you can import into LittleNavMap that will place all of the items as userpoints.
